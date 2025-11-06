@@ -1,18 +1,11 @@
-# Welcome to your Lovable project
+** this is a WorkConnect Project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/1d3a6b60-9be8-4b8c-890c-d5ab3cbde777
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1d3a6b60-9be8-4b8c-890c-d5ab3cbde777) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
