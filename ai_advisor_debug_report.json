@@ -1,0 +1,95 @@
+{
+  "timestamp": "2025-10-28T08:45:34.359572",
+  "database": {
+    "users": 14,
+    "freelancers": 12,
+    "projects": 8,
+    "skills": 45,
+    "skill_trends": 18,
+    "career_insights": 13,
+    "recommendations": 8
+  },
+  "sample_data": {
+    "sample_freelancer": {
+      "email": "sudhan@gmail.com",
+      "name": "sudhan B",
+      "skills": []
+    },
+    "sample_projects": [
+      {
+        "title": "Build React Dashboard",
+        "budget": 5000.0,
+        "skills": [
+          "React",
+          "TypeScript",
+          "JavaScript",
+          "CSS"
+        ]
+      },
+      {
+        "title": "Python Data Analysis Project",
+        "budget": 4000.0,
+        "skills": [
+          "Python",
+          "Data Science",
+          "Machine Learning",
+          "MongoDB"
+        ]
+      },
+      {
+        "title": "Full Stack Web Application",
+        "budget": 8000.0,
+        "skills": [
+          "Node.js",
+          "React",
+          "PostgreSQL",
+          "GraphQL"
+        ]
+      }
+    ],
+    "sample_trends": [
+      {
+        "skill": "React",
+        "demand": 100.0,
+        "frequency": 3
+      },
+      {
+        "skill": "TypeScript",
+        "demand": 100.0,
+        "frequency": 3
+      },
+      {
+        "skill": "JavaScript",
+        "demand": 100.0,
+        "frequency": 3
+      },
+      {
+        "skill": "CSS",
+        "demand": 66.66666666666666,
+        "frequency": 2
+      },
+      {
+        "skill": "Python",
+        "demand": 66.66666666666666,
+        "frequency": 2
+      }
+    ],
+    "sample_insights": [
+      {
+        "user": "sudhan@gmail.com",
+        "current_rate": null,
+        "potential_rate": 5500.0
+      },
+      {
+        "user": "test@workconnect.com",
+        "current_rate": null,
+        "potential_rate": 5500.0
+      },
+      {
+        "user": "anitasharma@gmail.com",
+        "current_rate": null,
+        "potential_rate": 5500.0
+      }
+    ]
+  }
+}

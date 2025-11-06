@@ -1,0 +1,850 @@
+{
+  "platform_insights": {
+    "generated_at": "2025-01-15T10:30:00Z",
+    "total_freelancers_analyzed": 1247,
+    "total_projects_posted": 3891,
+    "average_project_budget": 2850,
+    "currency": "USD"
+  },
+  "trending_skills": [
+    {
+      "skill_name": "AI/Machine Learning",
+      "demand_percentage": 95,
+      "trend": "📈 Rapidly Growing",
+      "average_project_budget": 5200,
+      "project_count_weekly": 145,
+      "week_over_week_growth": 23.5,
+      "freelancers_with_skill": 287,
+      "avg_hourly_rate": 85,
+      "market_saturation": "High Demand"
+    },
+    {
+      "skill_name": "React/Next.js",
+      "demand_percentage": 88,
+      "trend": "📈 Growing",
+      "average_project_budget": 3800,
+      "project_count_weekly": 198,
+      "week_over_week_growth": 12.4,
+      "freelancers_with_skill": 456,
+      "avg_hourly_rate": 65,
+      "market_saturation": "High Competition"
+    },
+    {
+      "skill_name": "Cloud Architecture (AWS/GCP/Azure)",
+      "demand_percentage": 92,
+      "trend": "📈 Rapidly Growing",
+      "average_project_budget": 4500,
+      "project_count_weekly": 112,
+      "week_over_week_growth": 18.9,
+      "freelancers_with_skill": 203,
+      "avg_hourly_rate": 80,
+      "market_saturation": "Medium Demand"
+    },
+    {
+      "skill_name": "Data Science/Analytics",
+      "demand_percentage": 87,
+      "trend": "📈 Growing",
+      "average_project_budget": 4200,
+      "project_count_weekly": 89,
+      "week_over_week_growth": 14.2,
+      "freelancers_with_skill": 156,
+      "avg_hourly_rate": 78,
+      "market_saturation": "Medium Demand"
+    },
+    {
+      "skill_name": "Python/FastAPI",
+      "demand_percentage": 85,
+      "trend": "📈 Growing",
+      "average_project_budget": 3600,
+      "project_count_weekly": 134,
+      "week_over_week_growth": 11.3,
+      "freelancers_with_skill": 342,
+      "avg_hourly_rate": 72,
+      "market_saturation": "High Competition"
+    },
+    {
+      "skill_name": "UI/UX Design",
+      "demand_percentage": 78,
+      "trend": "📊 Stable",
+      "average_project_budget": 2800,
+      "project_count_weekly": 167,
+      "week_over_week_growth": 2.1,
+      "freelancers_with_skill": 523,
+      "avg_hourly_rate": 55,
+      "market_saturation": "High Competition"
+    },
+    {
+      "skill_name": "DevOps/Kubernetes",
+      "demand_percentage": 84,
+      "trend": "📈 Growing",
+      "average_project_budget": 4100,
+      "project_count_weekly": 67,
+      "week_over_week_growth": 16.7,
+      "freelancers_with_skill": 98,
+      "avg_hourly_rate": 82,
+      "market_saturation": "Medium Demand"
+    },
+    {
+      "skill_name": "Blockchain/Web3",
+      "demand_percentage": 72,
+      "trend": "📈 Growing",
+      "average_project_budget": 5800,
+      "project_count_weekly": 43,
+      "week_over_week_growth": 25.3,
+      "freelancers_with_skill": 67,
+      "avg_hourly_rate": 95,
+      "market_saturation": "Low Competition (High Demand)"
+    }
+  ],
+  "user_profiles": [
+    {
+      "profile_id": "user_001",
+      "name": "Sarah Chen",
+      "email": "sarah.chen@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "junior",
+      "years_of_experience": 1.5,
+      "current_skills": [
+        {
+          "skill": "React",
+          "proficiency_level": 3,
+          "years_of_experience": 1
+        },
+        {
+          "skill": "JavaScript",
+          "proficiency_level": 4,
+          "years_of_experience": 2
+        },
+        {
+          "skill": "CSS/Tailwind",
+          "proficiency_level": 3,
+          "years_of_experience": 1.5
+        },
+        {
+          "skill": "HTML",
+          "proficiency_level": 4,
+          "years_of_experience": 2
+        }
+      ],
+      "current_hourly_rate": 35,
+      "total_projects_completed": 12,
+      "average_project_value": 1200,
+      "total_earnings": 14400,
+      "last_active": "2025-01-14T15:30:00Z",
+      "profile_completion": 65,
+      "portfolio_items": 4,
+      "client_satisfaction": 4.8,
+      "activity_status": "active"
+    },
+    {
+      "profile_id": "user_002",
+      "name": "Rajesh Patel",
+      "email": "rajesh.patel@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "mid_level",
+      "years_of_experience": 4.5,
+      "current_skills": [
+        {
+          "skill": "Python",
+          "proficiency_level": 5,
+          "years_of_experience": 4
+        },
+        {
+          "skill": "FastAPI",
+          "proficiency_level": 4,
+          "years_of_experience": 2
+        },
+        {
+          "skill": "PostgreSQL",
+          "proficiency_level": 4,
+          "years_of_experience": 4
+        },
+        {
+          "skill": "AWS",
+          "proficiency_level": 3,
+          "years_of_experience": 2
+        },
+        {
+          "skill": "Docker",
+          "proficiency_level": 3,
+          "years_of_experience": 1.5
+        }
+      ],
+      "current_hourly_rate": 62,
+      "total_projects_completed": 67,
+      "average_project_value": 3200,
+      "total_earnings": 214400,
+      "last_active": "2025-01-15T08:00:00Z",
+      "profile_completion": 85,
+      "portfolio_items": 12,
+      "client_satisfaction": 4.9,
+      "activity_status": "active"
+    },
+    {
+      "profile_id": "user_003",
+      "name": "Maria Garcia",
+      "email": "maria.garcia@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "senior",
+      "years_of_experience": 8.2,
+      "current_skills": [
+        {
+          "skill": "Machine Learning",
+          "proficiency_level": 5,
+          "years_of_experience": 5
+        },
+        {
+          "skill": "TensorFlow/PyTorch",
+          "proficiency_level": 5,
+          "years_of_experience": 4
+        },
+        {
+          "skill": "Data Science",
+          "proficiency_level": 5,
+          "years_of_experience": 6
+        },
+        {
+          "skill": "Python",
+          "proficiency_level": 5,
+          "years_of_experience": 8
+        },
+        {
+          "skill": "Cloud Architecture",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "Big Data",
+          "proficiency_level": 4,
+          "years_of_experience": 4
+        }
+      ],
+      "current_hourly_rate": 110,
+      "total_projects_completed": 156,
+      "average_project_value": 6500,
+      "total_earnings": 1014000,
+      "last_active": "2025-01-15T14:20:00Z",
+      "profile_completion": 95,
+      "portfolio_items": 28,
+      "client_satisfaction": 4.95,
+      "activity_status": "active"
+    },
+    {
+      "profile_id": "user_004",
+      "name": "Alex Thompson",
+      "email": "alex.thompson@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "mid_level",
+      "years_of_experience": 3.8,
+      "current_skills": [
+        {
+          "skill": "UI/UX Design",
+          "proficiency_level": 5,
+          "years_of_experience": 4
+        },
+        {
+          "skill": "Figma",
+          "proficiency_level": 5,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "Adobe XD",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "User Research",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "Prototyping",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        }
+      ],
+      "current_hourly_rate": 58,
+      "total_projects_completed": 43,
+      "average_project_value": 2100,
+      "total_earnings": 90300,
+      "last_active": "2025-01-10T11:45:00Z",
+      "profile_completion": 72,
+      "portfolio_items": 15,
+      "client_satisfaction": 4.7,
+      "activity_status": "inactive_7_days"
+    },
+    {
+      "profile_id": "user_005",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "junior",
+      "years_of_experience": 0.8,
+      "current_skills": [
+        {
+          "skill": "Web Design",
+          "proficiency_level": 3,
+          "years_of_experience": 0.8
+        },
+        {
+          "skill": "WordPress",
+          "proficiency_level": 3,
+          "years_of_experience": 1
+        },
+        {
+          "skill": "HTML/CSS",
+          "proficiency_level": 2,
+          "years_of_experience": 0.8
+        }
+      ],
+      "current_hourly_rate": 25,
+      "total_projects_completed": 8,
+      "average_project_value": 450,
+      "total_earnings": 3600,
+      "last_active": "2025-01-13T09:15:00Z",
+      "profile_completion": 45,
+      "portfolio_items": 2,
+      "client_satisfaction": 4.5,
+      "activity_status": "active"
+    },
+    {
+      "profile_id": "user_006",
+      "name": "David Kim",
+      "email": "david.kim@freelancer.com",
+      "role": "freelancer",
+      "experience_level": "senior",
+      "years_of_experience": 10.5,
+      "current_skills": [
+        {
+          "skill": "Full-Stack Development",
+          "proficiency_level": 5,
+          "years_of_experience": 10
+        },
+        {
+          "skill": "AWS",
+          "proficiency_level": 5,
+          "years_of_experience": 6
+        },
+        {
+          "skill": "DevOps",
+          "proficiency_level": 5,
+          "years_of_experience": 5
+        },
+        {
+          "skill": "Kubernetes",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "Terraform",
+          "proficiency_level": 4,
+          "years_of_experience": 3
+        },
+        {
+          "skill": "Team Leadership",
+          "proficiency_level": 5,
+          "years_of_experience": 5
+        }
+      ],
+      "current_hourly_rate": 120,
+      "total_projects_completed": 189,
+      "average_project_value": 7200,
+      "total_earnings": 1362000,
+      "last_active": "2025-01-15T16:45:00Z",
+      "profile_completion": 98,
+      "portfolio_items": 35,
+      "client_satisfaction": 4.98,
+      "activity_status": "active"
+    }
+  ],
+  "recommendations_by_user": [
+    {
+      "user_id": "user_001",
+      "user_name": "Sarah Chen",
+      "experience_level": "junior",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_001",
+          "title": "Learn Next.js for Higher Earning Potential",
+          "description": "Next.js is in high demand with $3800 average project value. Currently you're at React level 3. Upgrading to Next.js could boost your rate from $35/hr to $52/hr.",
+          "recommendation_type": "skill_gap",
+          "priority": "high",
+          "confidence_score": 0.92,
+          "current_skill": "React",
+          "target_skill": "Next.js",
+          "estimated_learning_time_days": 21,
+          "potential_rate_increase": 17,
+          "potential_hourly_rate": 52,
+          "market_demand": "High",
+          "estimated_earnings_increase": 6120,
+          "action_url": "/skills"
+        },
+        {
+          "recommendation_id": "rec_002",
+          "title": "Complete Your Profile to Attract More Clients",
+          "description": "Your profile is 65% complete. Freelancers with >85% completion get 3x more project inquiries. Add 3-4 portfolio pieces to reach 85%.",
+          "recommendation_type": "profile_optimization",
+          "priority": "high",
+          "confidence_score": 0.88,
+          "current_score": 65,
+          "target_score": 85,
+          "estimated_profile_improvement_time_days": 14,
+          "potential_inquiry_increase": 200,
+          "action_url": "/profile"
+        },
+        {
+          "recommendation_id": "rec_003",
+          "title": "Build a Responsive Design Portfolio Project",
+          "description": "Responsive design skills are trending. A project showcasing mobile-optimized React work would strengthen your portfolio significantly.",
+          "recommendation_type": "project_suggestion",
+          "priority": "medium",
+          "confidence_score": 0.85,
+          "project_type": "Open-source contribution",
+          "estimated_hours": 40,
+          "skill_improvement": ["React", "CSS/Tailwind", "Responsive Design"],
+          "portfolio_impact": "high",
+          "action_url": "/projects"
+        }
+      ],
+      "skill_gaps": [
+        {
+          "missing_skill": "Next.js",
+          "market_demand_percentage": 88,
+          "average_project_budget": 3800,
+          "freelancer_gap": 0.72,
+          "estimated_rate_boost": "+$17/hr"
+        },
+        {
+          "missing_skill": "TypeScript",
+          "market_demand_percentage": 76,
+          "average_project_budget": 3200,
+          "freelancer_gap": 0.68,
+          "estimated_rate_boost": "+$12/hr"
+        }
+      ],
+      "earning_potential": {
+        "current_annual_rate": 72800,
+        "potential_annual_rate": 108160,
+        "earning_increase": 35360,
+        "increase_percentage": 48.5,
+        "timeframe_months": 6
+      }
+    },
+    {
+      "user_id": "user_002",
+      "user_name": "Rajesh Patel",
+      "experience_level": "mid_level",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_004",
+          "title": "Master Kubernetes to Double Your Rate",
+          "description": "You have AWS expertise but Kubernetes skills are in 84% high demand. Senior DevOps engineers with K8s expertise command $98/hr vs your $62/hr.",
+          "recommendation_type": "skill_gap",
+          "priority": "high",
+          "confidence_score": 0.94,
+          "current_skill": "Docker",
+          "target_skill": "Kubernetes",
+          "estimated_learning_time_days": 45,
+          "potential_rate_increase": 36,
+          "potential_hourly_rate": 98,
+          "market_demand": "Very High",
+          "estimated_earnings_increase": 74880,
+          "action_url": "/skills"
+        },
+        {
+          "recommendation_id": "rec_005",
+          "title": "Specialize in Cloud-Native Development",
+          "description": "Your FastAPI + AWS combination is rare. 2-3 cloud-native portfolio projects would position you for $8000+ projects.",
+          "recommendation_type": "project_suggestion",
+          "priority": "high",
+          "confidence_score": 0.91,
+          "project_type": "Cloud-native microservices",
+          "estimated_hours": 120,
+          "potential_project_value": 8500,
+          "action_url": "/projects"
+        },
+        {
+          "recommendation_id": "rec_006",
+          "title": "Increase Rates by 15% - Market Analysis Supports It",
+          "description": "Your profile and ratings support $71/hr pricing. Similar freelancers with your experience earn 15% more.",
+          "recommendation_type": "pricing_strategy",
+          "priority": "medium",
+          "confidence_score": 0.87,
+          "current_rate": 62,
+          "recommended_rate": 71,
+          "rate_increase_percentage": 14.5,
+          "market_comparison": "You're below market average",
+          "annual_impact": 18720,
+          "action_url": "/settings"
+        }
+      ],
+      "skill_gaps": [
+        {
+          "missing_skill": "Kubernetes",
+          "market_demand_percentage": 84,
+          "average_project_budget": 4100,
+          "freelancer_gap": 0.89,
+          "estimated_rate_boost": "+$36/hr"
+        },
+        {
+          "missing_skill": "Terraform",
+          "market_demand_percentage": 71,
+          "average_project_budget": 3600,
+          "freelancer_gap": 0.76,
+          "estimated_rate_boost": "+$18/hr"
+        }
+      ],
+      "earning_potential": {
+        "current_annual_rate": 128896,
+        "potential_annual_rate": 203776,
+        "earning_increase": 74880,
+        "increase_percentage": 58.1,
+        "timeframe_months": 8
+      }
+    },
+    {
+      "user_id": "user_003",
+      "user_name": "Maria Garcia",
+      "experience_level": "senior",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_007",
+          "title": "Explore AI/ML Consulting Opportunities",
+          "description": "Your ML expertise is elite. Consulting projects (not code-for-hire) average $15000-$25000 with 3-week engagements. Your current $110/hr can become $180/hr consulting.",
+          "recommendation_type": "career_transition",
+          "priority": "high",
+          "confidence_score": 0.96,
+          "current_model": "hourly",
+          "recommended_model": "consulting",
+          "rate_multiplier": 1.64,
+          "new_engagement_value": 21600,
+          "market_opportunity": "Very High",
+          "action_url": "/services"
+        },
+        {
+          "recommendation_id": "rec_008",
+          "title": "Build AI/ML Product and Monetize It",
+          "description": "You could create an AI product/SaaS targeting businesses. Your 156 projects prove strong execution. This could generate passive revenue.",
+          "recommendation_type": "business_opportunity",
+          "priority": "medium",
+          "confidence_score": 0.82,
+          "opportunity_type": "SaaS/Product",
+          "estimated_initial_setup": 80,
+          "potential_monthly_recurring_revenue": 8000,
+          "payback_period_months": 2,
+          "action_url": "/integrations"
+        },
+        {
+          "recommendation_id": "rec_009",
+          "title": "Mentor Junior Developers for Additional Income",
+          "description": "With your 156 projects and 4.95 rating, mentoring could add $3000-$5000/month without reducing your freelance work.",
+          "recommendation_type": "additional_income",
+          "priority": "medium",
+          "confidence_score": 0.88,
+          "income_type": "Mentoring",
+          "estimated_monthly_income": 4000,
+          "hours_per_month": 20,
+          "effective_hourly_rate": 200,
+          "action_url": "/teams"
+        }
+      ],
+      "achievement_status": {
+        "elite_freelancer": true,
+        "top_5_percent": true,
+        "potential_annual_earnings": 470400,
+        "with_opportunities": 576000
+      }
+    },
+    {
+      "user_id": "user_004",
+      "user_name": "Alex Thompson",
+      "experience_level": "mid_level",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_010",
+          "title": "You've Been Inactive for 7 Days - Check These Opportunities",
+          "description": "We've identified 12 new UI/UX design projects matching your profile perfectly. Your last active was Jan 10th.",
+          "recommendation_type": "activity_alert",
+          "priority": "high",
+          "confidence_score": 0.93,
+          "inactivity_days": 5,
+          "matching_projects": 12,
+          "matching_projects_budget": 35400,
+          "average_match_score": 0.89,
+          "action_url": "/projects"
+        },
+        {
+          "recommendation_id": "rec_011",
+          "title": "Add Prototyping to Your Services",
+          "description": "You have prototyping skills (level 4) but it's not in your service offerings. Add it to unlock projects paying $2800+ for prototypes.",
+          "recommendation_type": "service_expansion",
+          "priority": "medium",
+          "confidence_score": 0.85,
+          "new_service": "Interactive Prototyping",
+          "estimated_project_value": 2800,
+          "market_demand": "High",
+          "action_url": "/services"
+        },
+        {
+          "recommendation_id": "rec_012",
+          "title": "Increase Your Rate by 10% - Backed by Market Data",
+          "description": "Mid-level UI/UX designers with your portfolio size earn $64/hr. Your current $58/hr is 9% below market.",
+          "recommendation_type": "pricing_strategy",
+          "priority": "medium",
+          "confidence_score": 0.89,
+          "current_rate": 58,
+          "market_rate": 64,
+          "rate_increase_percentage": 10.3,
+          "annual_impact": 12480,
+          "action_url": "/settings"
+        }
+      ],
+      "activity_insights": {
+        "last_active": "2025-01-10T11:45:00Z",
+        "days_inactive": 5,
+        "status": "needs_engagement",
+        "recommended_actions": ["Check pending messages", "Browse new projects", "Update profile"]
+      }
+    },
+    {
+      "user_id": "user_005",
+      "user_name": "Priya Sharma",
+      "experience_level": "junior",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_013",
+          "title": "JavaScript Proficiency Will Triple Your Earnings",
+          "description": "You're at HTML/CSS level 2. Learning JavaScript (to level 4) will make you 'Full-Stack' capable, raising your rate from $25/hr to $42/hr.",
+          "recommendation_type": "skill_gap",
+          "priority": "critical",
+          "confidence_score": 0.95,
+          "current_skill": "HTML/CSS",
+          "target_skill": "JavaScript",
+          "estimated_learning_time_days": 60,
+          "potential_rate_increase": 17,
+          "potential_hourly_rate": 42,
+          "market_demand": "Critical",
+          "estimated_earnings_increase": 29120,
+          "learning_resources": [
+            "freeCodeCamp JavaScript Course",
+            "JavaScript.info tutorial",
+            "Practice on LeetCode"
+          ],
+          "action_url": "/skills"
+        },
+        {
+          "recommendation_id": "rec_014",
+          "title": "Build 5 More Portfolio Projects to 10x Your Inquiries",
+          "description": "You have 2 portfolio items. Freelancers with 8+ items get 10x more inquiries. Build clones of popular sites.",
+          "recommendation_type": "portfolio_building",
+          "priority": "critical",
+          "confidence_score": 0.93,
+          "current_portfolio": 2,
+          "target_portfolio": 8,
+          "projected_inquiry_increase": 950,
+          "estimated_time": 90,
+          "project_ideas": [
+            "E-commerce product page",
+            "Blog platform",
+            "Dashboard UI",
+            "Portfolio website",
+            "SaaS landing page"
+          ],
+          "action_url": "/portfolio"
+        },
+        {
+          "recommendation_id": "rec_015",
+          "title": "Learn React to Access Premium Projects",
+          "description": "React projects pay $35-$45/hr vs WordPress $25/hr. 8-week React bootcamp path designed for WordPress developers.",
+          "recommendation_type": "skill_transition",
+          "priority": "high",
+          "confidence_score": 0.88,
+          "current_platform": "WordPress",
+          "target_platform": "React",
+          "current_rate": 25,
+          "target_rate": 40,
+          "learning_path_weeks": 8,
+          "average_project_value_increase": 1850,
+          "action_url": "/skills"
+        }
+      ],
+      "growth_roadmap": {
+        "current_annual_rate": 52000,
+        "3_month_target": 78000,
+        "6_month_target": 156000,
+        "12_month_target": 312000,
+        "key_milestones": [
+          "Month 1: Learn JavaScript basics",
+          "Month 2: Build 3 portfolio projects",
+          "Month 3: Increase rate to $35/hr",
+          "Month 4-6: Learn React",
+          "Month 6+: Premium projects at $42+/hr"
+        ]
+      }
+    },
+    {
+      "user_id": "user_006",
+      "user_name": "David Kim",
+      "experience_level": "senior",
+      "recommendations": [
+        {
+          "recommendation_id": "rec_016",
+          "title": "Build a DevOps Tools SaaS - Market Opportunity",
+          "description": "Your expertise in DevOps/K8s/Terraform is rare and highly valued. Cloud DevOps tools market is $15B+. Your skills position you perfectly.",
+          "recommendation_type": "business_opportunity",
+          "priority": "high",
+          "confidence_score": 0.91,
+          "opportunity_market_size": "15B",
+          "potential_mrr": 12000,
+          "competition_level": "medium",
+          "time_to_mvp": 12,
+          "action_url": "/integrations"
+        },
+        {
+          "recommendation_id": "rec_017",
+          "title": "Lead an Agency/Team - Scale Your Impact",
+          "description": "189 projects show strong leadership potential. Building a team of 5-8 developers could scale your output 5x.",
+          "recommendation_type": "career_transition",
+          "priority": "medium",
+          "confidence_score": 0.87,
+          "opportunity_type": "Team Leadership",
+          "team_size": 6,
+          "potential_monthly_revenue": 45000,
+          "action_url": "/teams"
+        },
+        {
+          "recommendation_id": "rec_018",
+          "title": "Executive Rates - Move to Strategic Advisory",
+          "description": "With 10.5 years experience and 4.98 rating, you qualify for $200+/hr strategic consulting vs current $120/hr development.",
+          "recommendation_type": "pricing_strategy",
+          "priority": "high",
+          "confidence_score": 0.92,
+          "current_rate": 120,
+          "advisory_rate": 200,
+          "rate_increase_percentage": 66.7,
+          "annual_impact": 166400,
+          "positioning": "Strategic Technical Advisor",
+          "action_url": "/services"
+        }
+      ],
+      "leadership_metrics": {
+        "projects_completed": 189,
+        "satisfaction_rating": 4.98,
+        "repeat_clients": 87,
+        "elite_status": true,
+        "potential_annual_revenue": 624000,
+        "with_team_potential": 2160000
+      }
+    }
+  ],
+  "project_opportunities": {
+    "trending_projects": [
+      {
+        "project_id": "proj_001",
+        "title": "AI-Powered Customer Service Chatbot",
+        "description": "Build an AI chatbot for customer support using GPT-4 API. Integration with existing Zendesk platform required.",
+        "budget": 8500,
+        "duration": "3 weeks",
+        "required_skills": ["Python", "FastAPI", "GPT-4 API", "AWS"],
+        "difficulty_level": "Advanced",
+        "ideal_for_level": "Senior",
+        "match_score": 0.95,
+        "match_score_for": ["user_002", "user_003", "user_006"]
+      },
+      {
+        "project_id": "proj_002",
+        "title": "React Dashboard with D3 Visualization",
+        "description": "Create an interactive analytics dashboard using React and D3.js. Real-time data updates required.",
+        "budget": 3200,
+        "duration": "2 weeks",
+        "required_skills": ["React", "JavaScript", "D3.js", "CSS"],
+        "difficulty_level": "Intermediate",
+        "ideal_for_level": "Mid-level",
+        "match_score": 0.87,
+        "match_score_for": ["user_001", "user_002"]
+      },
+      {
+        "project_id": "proj_003",
+        "title": "Complete UI/UX Redesign for SaaS Platform",
+        "description": "Full UI/UX redesign of existing SaaS application. Includes user research, wireframes, high-fidelity designs.",
+        "budget": 5200,
+        "duration": "4 weeks",
+        "required_skills": ["UI/UX Design", "Figma", "User Research", "Prototyping"],
+        "difficulty_level": "Advanced",
+        "ideal_for_level": "Senior",
+        "match_score": 0.92,
+        "match_score_for": ["user_004"]
+      },
+      {
+        "project_id": "proj_004",
+        "title": "WordPress E-commerce Store Setup",
+        "description": "Setup and customize WordPress e-commerce store with WooCommerce. SEO optimization included.",
+        "budget": 1200,
+        "duration": "1 week",
+        "required_skills": ["WordPress", "WooCommerce", "HTML", "CSS"],
+        "difficulty_level": "Beginner",
+        "ideal_for_level": "Junior",
+        "match_score": 0.88,
+        "match_score_for": ["user_005"]
+      }
+    ]
+  },
+  "market_insights": {
+    "report_date": "2025-01-15",
+    "freelancer_market_size": 2500,
+    "total_projects_available": 3891,
+    "average_project_completion_time": 18,
+    "average_client_satisfaction": 4.72,
+    "most_demanded_skills": [
+      "AI/Machine Learning",
+      "React/Next.js",
+      "Cloud Architecture",
+      "Python/FastAPI",
+      "DevOps/Kubernetes"
+    ],
+    "emerging_technologies": [
+      "Blockchain/Web3",
+      "Generative AI",
+      "Edge Computing",
+      "AI Agents",
+      "Quantum Computing"
+    ],
+    "salary_trends": {
+      "junior_developers": {
+        "min": 25,
+        "average": 42,
+        "max": 65
+      },
+      "mid_level_developers": {
+        "min": 55,
+        "average": 75,
+        "max": 105
+      },
+      "senior_developers": {
+        "min": 95,
+        "average": 140,
+        "max": 200
+      }
+    },
+    "market_opportunities": {
+      "fastest_growing": "AI/ML and DevOps",
+      "highest_paying": "Blockchain and Cloud Architecture",
+      "most_competitive": "Web Development (React/Next.js)",
+      "least_competitive": "DevOps/Kubernetes with ML background"
+    }
+  },
+  "growth_metrics": {
+    "market_demand_growth_ytd": 45.2,
+    "freelancer_supply_growth_ytd": 28.1,
+    "supply_demand_gap": 17.1,
+    "market_opportunity_index": "Very High",
+    "best_time_to_specialize": "Now",
+    "predicted_high_demand_skills_next_6_months": [
+      "AI/Machine Learning",
+      "Kubernetes",
+      "Blockchain Development",
+      "Generative AI Integration",
+      "Cloud-Native Architecture"
+    ]
+  }
+}

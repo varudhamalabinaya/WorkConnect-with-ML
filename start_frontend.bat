@@ -1,0 +1,9 @@
+@echo off
+echo Starting WorkConnect Frontend...
+echo Installing dependencies...
+npm install
+
+echo Starting development server...
+npm run dev
+
+pause
